@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # API URL
-USER_ID=88  # Change this to test for different users
+USER_ID=1  # Change this to test for different users
 URL="http://localhost:8080/api/leaderboard/rank/$USER_ID"
 
 # Send GET request

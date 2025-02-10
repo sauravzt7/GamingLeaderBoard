@@ -7,8 +7,8 @@ URL="http://localhost:8080/api/leaderboard/submit"
 DATA=$(cat <<EOF
 {
     "userId": 1,
-    "score": 500,
-    "gameMode": "Classic"
+    "score": 800,
+    "gameMode": "Arcade"
 }
 EOF
 )
